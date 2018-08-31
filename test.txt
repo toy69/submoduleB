@@ -1,0 +1,4 @@
+	public static interface HostAndPortSupplier extends Supplier<HostAndPort>{}
+	public static interface HostsAndPortSupplier extends Supplier<HostsAndPort>{}
+	public static interface ClustersStringSupplier extends Supplier<String>{}
+
